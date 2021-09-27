@@ -5,7 +5,10 @@ Hello and welcome. This is Zane Wang (Lord-Scrubington-II)'s Github page. Though
 
 I attend [The University of California San Diego](https://www.ucsd.edu/). 
 
-My interests include game development, Dungeons & Dragons, and classical music.  
+My interests include:
+1. Game Development
+2. Dungeons & Dragons
+3. Classical music
 Here's a link to my [favourite part of my favourite composition](https://youtu.be/XiTIfH0TpTg?t=240).  
 
 Some of my game projects include:
@@ -63,3 +66,6 @@ Here's a link to this repo's [README](./README.md).
 Confucius once said:
 > When a wise man points at the moon, the imbecile scrutinizes his finger.
 > 
+
+Here's a picture of a snow weasel, just because I can:
+![snow_weasel](https://raw.githubusercontent.com/Lord-Scrubington-II/Lord-Scrubington-II.github.io/main/snow_weasel.png)

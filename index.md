@@ -8,7 +8,7 @@ I attend [The University of California San Diego](https://www.ucsd.edu/).
 My interests include:
 1. Game Development
 2. Dungeons & Dragons
-3. Classical music
+3. Classical music  
 Here's a link to my [favourite part of my favourite composition](https://youtu.be/XiTIfH0TpTg?t=240).  
 
 Some of my game projects include:
